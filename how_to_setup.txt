@@ -1,0 +1,9 @@
+Steps:
+1. Clone this project
+2. Create virtual environment and activate it. 
+    a. Windows:
+        i. pip install virtualenv
+        ii. python -m virtualenv penv
+        iii. penv/Scripts/activate
+3. Install dependencies: pip install -r requirements.txt
+4. Run the project: python register_complaint.py
